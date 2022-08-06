@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="English",LANGUAGE="en",AUTOSELECT=YES,DEFAULT=NO,URI="https://raw.githubusercontent.com/Apfomlb/411audio/master/419EN.m4a"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Italiano",LANGUAGE="it",AUTOSELECT=YES,DEFAULT=NO,URI="it/419_it.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-1",NAME="Polski",LANGUAGE="pl",AUTOSELECT=YES,DEFAULT=YES,URI="pl/419_pl.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=1758000,RESOLUTION=1920x1080,AUDIO="audio-1"
+https://raw.githubusercontent.com/Apfomlb/419-421/master/419/419.m3u8
